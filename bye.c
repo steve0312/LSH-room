@@ -2,5 +2,5 @@
 #include "myheader.h"
 
 void printBye(void) {
-    printf("Bye World!\n");
+    printf("Bye Bye World!\n");
 }
